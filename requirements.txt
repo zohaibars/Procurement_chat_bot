@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+pandas
+numpy
+chromadb
+langchain
+langchain-groq
+sentence-transformers
+python-dotenv
+pydantic
