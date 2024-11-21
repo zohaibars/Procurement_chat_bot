@@ -63,7 +63,7 @@ The data will be automatically loaded into MongoDB when the application starts i
 ### Data Directory Structure
 
 ```
-procurement-rag-chatbot/
+Procurement_chat_bot/
 ├── data_tests/
 │   └── PURCHASE ORDER DATA EXTRACT 2012-2015_0.csv
 ```
