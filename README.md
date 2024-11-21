@@ -36,7 +36,10 @@ The system expects a CSV file with procurement data. The path to this file shoul
 
 ```env
 CSV_DATA_PATH=data_tests/PURCHASE ORDER DATA EXTRACT 2012-2015_0.csv
+
+unzip: data_tests/PURCHASE ORDER DATA EXTRACT 2012-2015_0.rar
 ```
+
 
 The data will be automatically loaded into MongoDB when the application starts if the collection is empty.
 
